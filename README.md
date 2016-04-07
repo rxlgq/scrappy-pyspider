@@ -1,0 +1,2 @@
+# scrappy-pyspider
+use pyspider
